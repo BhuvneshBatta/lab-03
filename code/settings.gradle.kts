@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "ListyCityLab3"
 include(":app")
- 
+include(":app")
